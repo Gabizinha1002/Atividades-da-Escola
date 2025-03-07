@@ -1,9 +1,15 @@
-a{
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    cursor: pointer;
-    color: rgb(5, 5, 87);
+body{
+    background-color: rgb(81,81, 238);
+    color: white;
 }
+
+a{
+    font-family: Arial;
+    cursor: pointer;
+    text-decoration:  none;
+    color: black;
+}
+
 nav ul{
     display: flex;
     flex-direction: row;

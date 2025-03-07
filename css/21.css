@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(117, 117, 240);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 300px;
+}

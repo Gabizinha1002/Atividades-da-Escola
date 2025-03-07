@@ -4,7 +4,8 @@
     }
 
     nav{
-        display: block;
+        display: flex;
+        flex-direction: column;
         margin-top: 80px;
         margin-left: 450px;
         gap: 10px;
@@ -12,14 +13,14 @@
     }
     nav a{
         border-radius: 10px;
-        border: 2px solid rgb(149, 149, 247);
-        background-color: rgb(149, 149, 247);
+        border: 2px solid rgb(117, 117, 240);
+        background-color: rgb(117, 117, 240);
         color: white;
         font-size: 22px;
         height: 50%;
         margin-top: 10px;
         width: 50%;
-        padding: 5px;
+        padding: 8px;
         font-weight: bold;
         text-decoration: none;
         display: flex;
