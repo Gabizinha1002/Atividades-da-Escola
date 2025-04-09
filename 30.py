@@ -3,7 +3,7 @@ import json
 arquivo_cadastros = "cadastros.json"
 
 def exibir_menu():
-    print("\n ---- MENU CADASTROS ----")
+    print("---- MENU CADASTROS ----")
     print("1 - Cadastrar pessoa")
     print("2 - Ver cadastro")
     print("3 - Sair")
